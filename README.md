@@ -2,7 +2,7 @@
 
 # Purchase button
 When you press this button it shows the message "Something went wrong, please try again"             
-You can try this App here:  [Web App](https://bucolic-jelly-62bed9.netlify.app)
+You can try this App here:  [Web App](https://fluffy-crisp-9cde4d.netlify.app)
 
 ## Features
 
